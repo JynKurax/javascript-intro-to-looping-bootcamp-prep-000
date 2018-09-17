@@ -29,7 +29,7 @@ function incrementVariable() {
 }
 
   do {
-  array.length = array.length - i  
+  array.length = array.length - i 
 } while {
   array.length > 0 && incrementVariable()
 }
