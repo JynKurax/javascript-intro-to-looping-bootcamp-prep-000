@@ -19,9 +19,11 @@ function whileLoop(Number){
   return 'done'
 }
  
-function doWhileLoop(Array){
+function doWhileLoop(array){
   do {
     
 } while {
-  
+  array.length > 0 && incrementVariable()
+}
+return array
 }
