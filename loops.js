@@ -30,8 +30,8 @@ function incrementVariable() {
 
   do {
   array.length = array.length - i 
-} while {
+} while (
   array.length > 0 && incrementVariable()
-}
+)
 return array
 }
