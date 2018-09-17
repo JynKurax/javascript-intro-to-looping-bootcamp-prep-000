@@ -8,12 +8,7 @@ function forLoop(array){
 
 
 
-function doWhileLoop(array){
-  do{
-  array.length--
-  } while {
-  array.length === i && i < 0
-    }
-  }
+function doWhileLoop(){
+}
  
 
